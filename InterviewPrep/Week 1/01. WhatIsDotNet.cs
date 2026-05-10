@@ -92,7 +92,7 @@ Supports web, desktop, cloud, mobile, and AI applications
     System.Threading — concurrency
 
 
-3. What is NuGet?
+4. What is NuGet?
 =>
     NuGet is the package manager for .NET — similar to npm for Node.js or pip for Python. 
     It lets you add third-party libraries to your project easily via the CLI or Visual Studio.
